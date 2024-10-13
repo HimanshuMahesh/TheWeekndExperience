@@ -243,15 +243,15 @@ const LandingPage: React.FC = () => {
         </h3>
       </div>
       <p className="text-center text-gray-300 font-dm-sans text-lg">
-        This is a React, Tailwind CSS, and TypeScript project created by 
+        This is a React, Tailwind CSS, and TypeScript project created by  
         <a 
           href="https://github.com/himanshumahesh" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-red-500 underline hover:text-red-400"
         >
-          @himanshumahesh
-        </a>as a documentation of the different eras of The Weeknd, exploring his evolution as an artist.
+           @himanshumahesh
+        </a> as a documentation of the different eras of The Weeknd, exploring his evolution as an artist.
       </p>
     </div>
     <div className="mt-8 text-center text-sm text-gray-400 font-dm-sans">

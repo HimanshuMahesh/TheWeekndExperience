@@ -27,7 +27,7 @@ const LandingPage: React.FC = () => {
       Starboy. King of the Fall.
     </p>
     <p className="text-lg md:text-2xl mb-8 font-extrabold text-gray-300">
-      Dive into the electrifying world of The Weeknd, the Grammy-winning artist who has captivated audiences worldwide. Experience his unique blend of R&B, pop, and synth-wave through his iconic tracks and mesmerizing performances.
+    Immerse yourself in the dynamic world of The Weeknd, the Grammy Award-winning artist who has captivated global audiences with his unparalleled fusion of R&B, pop, and synth-wave. Renowned for his iconic tracks and spellbinding performances, The Weeknd continues to push the boundaries of contemporary music, leaving an indelible mark on the industry.
     </p>
     <div className="flex justify-start space-x-6 mt-4">
       {/* Social Media Icons */}
@@ -77,7 +77,7 @@ const LandingPage: React.FC = () => {
         className="w-full md:w-3/4 h-auto object-cover"
       />
       <p className="text-sm text-gray-400 mt-2 font-inter italic text-center"> {/* Centered caption */}
-        The Weeknd's iconic <em>House of Balloons</em> album cover
+        The Weeknd's <em>House of Balloons</em> album cover photoshoot
       </p>
     </div>
   </div>
@@ -164,8 +164,8 @@ const LandingPage: React.FC = () => {
     <p className="text-3xl md:text-5xl mb-4 uppercase tracking-widest text-red-500">
       The Weeknd's Evolution
     </p>
-    <p className="text-lg md:text-2xl mb-8 font-bold text-gray-300">
-      Welcome to the era of <i><b>Starboy</b></i>, where The Weeknd reached new heights of fame and artistic expression. With chart-topping hits like <span className="text-orange-500">"Starboy"</span>, <span className="text-orange-500">"I Feel It Coming"</span>, and <span className="text-orange-500">"Party Monster"</span>, he redefined modern music and captivated fans worldwide.
+    <p className="text-lg md:text-2xl mb-8 font-extrabold text-gray-300">
+    Welcome to the era of Starboy, a defining moment in The Weeknd's career where he ascended to new heights of fame and artistic innovation. With chart-topping singles such as <span className="text-orange-500">"Starboy"</span>, <span className="text-orange-500">"I Feel It Coming"</span>, and <span className="text-orange-500">"Party Monster"</span>, he redefined the landscape of contemporary music and captivated audiences around the globe.
     </p>
   </div>
 </section>
@@ -194,8 +194,8 @@ const LandingPage: React.FC = () => {
     <p className="text-3xl md:text-5xl mb-4 uppercase tracking-widest text-red-500">
       A Journey into Darkness
     </p>
-    <p className="text-lg md:text-2xl mb-8 font-bold text-gray-300">
-  In the <i><b>After Hours</b></i> era, The Weeknd really opened up about heartbreak and self-reflection. Songs like <span className="text-orange-500">"Blinding Lights"</span>, <span className="text-orange-500">"Heartless"</span>, and <span className="text-orange-500">"Save Your Tears"</span> not only topped the charts but also showcased his evolution as an artist, mixing catchy hooks with deeper themes. It’s a fascinating blend of pop and R&B that redefined his sound, reminding us why he remains a standout in today's music landscape.
+    <p className="text-lg md:text-2xl mb-8 font-extrabold text-gray-300">
+    In the After Hours era, The Weeknd delved deeply into themes of heartbreak and self-reflection. Tracks like <span className="text-orange-500">"Blinding Lights"</span>, <span className="text-orange-500">"Heartless"</span>, and <span className="text-orange-500">"Save Your Tears"</span> not only dominated the charts but also highlighted his artistic growth. This period saw him skillfully blend catchy pop hooks with introspective, emotional depth, reshaping his sound and solidifying his status as a defining force in contemporary music.
 </p>
 
   </div>
@@ -226,9 +226,8 @@ const LandingPage: React.FC = () => {
     <p className="text-3xl md:text-5xl mb-4 uppercase tracking-widest text-white">
       A New Sound
     </p>
-    <p className="text-lg md:text-2xl mb-8 font-bold text-gray-300">
-  With <i><b>Dawn FM</b></i>, The Weeknd invites us into an intriguing exploration of the twilight of the mind with tracks like <span className="text-blue-600">"Take My Breath"</span>, <span className="text-blue-600">"Sacrifice"</span>, and <span className="text-blue-600">"Out of Time"</span>.
-  The 80s synthwave influences are evident, and while they nod to the past, they also show how The Weeknd continues to evolve as an artist. <i><b>Dawn FM</b></i> feels like more than just an album; it’s a well-crafted journey that showcases his willingness to take risks and push the boundaries of contemporary music.
+    <p className="text-lg md:text-2xl mb-8 font-extrabold text-gray-300">
+    With Dawn FM, The Weeknd invites listeners into a captivating exploration of the mind’s twilight, featuring tracks like <span className="text-blue-600">"Take My Breath"</span>, <span className="text-blue-600">"Sacrifice"</span>, and <span className="text-blue-600">"Out of Time"</span>. The 80s synthwave influences are unmistakable, offering a nostalgic nod to the past while showcasing The Weeknd’s continuous evolution as an artist. Dawn FM transcends the label of an album, emerging as a meticulously crafted journey that highlights his boldness in pushing the boundaries of modern music.
 </p>
 
   </div>

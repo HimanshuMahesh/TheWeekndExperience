@@ -232,19 +232,6 @@ const LandingPage: React.FC = () => {
 
   </div>
 </section>
-      const CustomCursor: React.FC<{ position: { x: number; y: number } }> = ({ position }) => {
-  return (
-    <div
-      className="fixed w-8 h-8 rounded-full pointer-events-none z-50 mix-blend-difference"
-      style={{
-        left: `${position.x}px`,
-        top: `${position.y}px`,
-        transform: 'translate(-50%, -50%)',
-        background: 'rgba(255, 0, 0, 0.5)',
-      }}
-    ></div>
-  );
-};
 {/* Footer */}
 <footer id="footer" className="bg-black py-8">
   <div className="container mx-auto px-4">
